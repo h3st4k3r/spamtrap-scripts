@@ -1,6 +1,6 @@
 # Spamtrap Scripts
 
-Aquí puedes encontrar los scripts descritos durante el artículo de Más Allá del Firewall [Spamtrap: La Trampa para Recolectar Malware, Correos Maliciosos y de Spam](https://blog.masalladelfirewall.com/2023/11/14/spamtrap-la-trampa-para-recolectar-malware-correos-maliciosos-y-de-spam/)
+Aquí puedes encontrar los scripts descritos durante el artículo de Más Allá del Firewall [Spamtrap: La Trampa para Recolectar Malware, Correos Maliciosos y de Spam](https://blog.masalladelfirewall.com/2023/11/14/spamtrap-la-trampa-para-recolectar-correos-maliciosos-y-de-spam/)
 
 ## Uso
 
